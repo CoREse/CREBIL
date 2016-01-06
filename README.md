@@ -1,6 +1,11 @@
+Introduction
+============
+
 Meant to be a general C++ library for Bioinformatics researching.
 
 Plan
+====
+
 Sequence class for DNA/RNA(/Protein, mabe later) etc.
 
 Interfaces for input/output data from/to common file types.
