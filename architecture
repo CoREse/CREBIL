@@ -1,0 +1,16 @@
+Sequence //for all the sequences, base on char
+{
+constructor
+destructor
+copy constructor
+assign operator
+use malloc
+
+to binary
+}
+
+Acid // yet just an alias for char
+
+DNA:Sequence
+
+RNA:Sequence
